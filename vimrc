@@ -1,0 +1,9 @@
+syntax on
+set title
+set titleold=
+set number
+set showmatch
+set smartindent
+set shiftwidth=4
+set tabstop=4
+set expandtab
